@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Test01_Assertions {
     /*
-        Starting from Junit%, we dont need to erite public access modifier
+        Starting from Junit%, we dont need to write public access modifier
         testMethod name is suggested to start with "testNameOfMethod"
      */
     @Test
